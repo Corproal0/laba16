@@ -12,7 +12,7 @@ void count(int S1, int S2, int Z = 0) {
     Z = (S1 + S2) / 2;
     cout << Z;
 }
-void arr(int fuckniggers, int ebalobamu) {
+void arr(int a, int b) {
     const int n = 5;
     int S1 = 0, S2 = 0, i, p[n], g[n];
     cout << "Первый массив:" << endl;
